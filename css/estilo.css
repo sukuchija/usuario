@@ -1,0 +1,46 @@
+.panel1 {
+  padding: 1rem;
+  margin: 1rem;
+  text-align: center;
+  border: 2px solid #ccc;
+  background-color: royalblue;
+  text-shadow: 1px 1px #fff;
+  border-radius: 1px;
+
+  position:absolute;
+  float:left;
+
+  border-radius: 18px 18px 18px 18px;
+  -moz-border-radius: 18px 18px 18px 18px;
+  -webkit-border-radius: 18px 18px 18px 18px;
+  border: 0px solid #000000;
+}
+.panelIcon {
+  
+  width: 200px;
+  padding: 1rem;
+  margin: 1rem;
+  text-align: center;
+  border: 2px solid #ccc;
+  color: seashell;
+  text-shadow: 1px 1px #fff;
+  border-radius: 18px 18px 18px 18px;
+  -moz-border-radius: 18px 18px 18px 18px;
+  -webkit-border-radius: 18px 18px 18px 18px;
+  border: 0px solid #000000;
+
+  position:relative;
+  top:200px;
+    left:1px;
+  float:left;
+}
+.btn{
+  border-radius: 10px 10px 10px 10px; 
+  margin: 10px; 
+}
+.text1{
+  border-radius: 10px 10px 10px 10px;
+}
+.text2{
+  border-radius: 10px 10px 10px 10px;
+}
